@@ -10,7 +10,7 @@ By combining data exploration, trend analysis, and business interpretation, this
 ### Wordcloud: Restaurant Sentiment Analysis & Social Media Intelligence
 A restaurant in Guayaquil, Ecuador needed to understand customer perception, identify service issues, and uncover growth opportunities from social media conversations.
 
-[More Detail](.Wordcloud/README.md)
+[More Detail](Wordcloud/README.md)
 
 ### Moviews Review
 The project topic was assigned by the instructor. The objective is to apply the techniques learned during the bootcamp, including Exploratory Data Analysis (EDA), machine learning, natural language processing (NLP), or graph analysis, while also incorporating a cost analysis component.
