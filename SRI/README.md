@@ -13,9 +13,7 @@ Which provinces generate the highest export activity?
 
 Where is there strong purchasing activity but weaker sales performance?
 
-How have sales and purchases evolved over time?
-
-Is there evidence of a change in economic behavior following the 2023 government transition?
+What product categories lead Ecuador's exports by volume and value?
 
 ### 📈 Key Findings
 
@@ -73,7 +71,7 @@ Automate monthly reporting by province
 
 ### 🚀 View Full Analysis
 
-[📓 Open Jupyter Notebook](./Proyecto_SRI_Grupo4.ipynb)
+[📓 Open Jupyter Notebook](./Project_SRI.ipynb)
 
 ---
 
