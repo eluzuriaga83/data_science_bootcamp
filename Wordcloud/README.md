@@ -33,13 +33,10 @@ End-to-end NLP pipeline using Python that collects Twitter data, performs sentim
 ## 📈 Sample Results
 
 ### Word Cloud: Most Discussed Topics
-![Word Cloud](./visualizations/wordcloud_output.png)
+![Word Cloud](./visualizations/discuss_topics.png)
 
 ### Sentiment By Category
-![Sentiment Chart](./sentiment_chart.png)
-
-### Social Network Graph
-![Network Graph](./visualizations/network_graph.png)
+![Sentiment Chart](./visualizations/sentiment_category.png)
 
 ---
 
