@@ -10,8 +10,11 @@ The analysis identifies which provinces drive the highest export volumes, highli
 
 By combining data exploration, trend analysis, and business interpretation, this project showcases my ability to translate complex data into strategic insights—bridging the gap between technical analytics and real-world economic decision-making.
 
-### Wordcloud
-The goal of this project is to perform text mining and social network analysis. We collected tweets about a specific restaurant in Guayaquil, Ecuador to understand what people are saying about the business, analyze whether the reviews are positive or negative, and identify potential sales strategies based on the feedback received.
+### Wordcloud: Restaurant Sentiment Analysis & Social Media Intelligence
+A restaurant in Guayaquil, Ecuador needed to understand customer perception, identify service issues, and uncover growth opportunities from social media conversations.
+
+What I Built:
+Developed a text mining and sentiment analysis pipeline using Python to analyze Twitter conversations about the restaurant. Used natural language processing (NLP) to extract customer sentiment, identify trending topics, and visualize conversation patterns through word clouds and network analysis.
 
 ### Moviews Review
 The project topic was assigned by the instructor. The objective is to apply the techniques learned during the bootcamp, including Exploratory Data Analysis (EDA), machine learning, natural language processing (NLP), or graph analysis, while also incorporating a cost analysis component.
