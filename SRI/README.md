@@ -20,7 +20,9 @@ What product categories lead Ecuador's exports by volume and value?
 ✔ Top-performing provinces were identified as primary drivers of national exports.
 
 ✔ Several provinces show high purchasing levels without corresponding sales growth, signaling potential inefficiencies or untapped markets.
+
 ✔ Sales and purchase trends reveal regional disparities in economic momentum.
+
 ✔ A post-2023 comparison suggests measurable changes in economic activity that may align with the government transition.
 
 ### 🛠️ Tools & Skills Used
