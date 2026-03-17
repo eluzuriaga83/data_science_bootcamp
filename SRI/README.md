@@ -32,6 +32,8 @@ The focus of this project is on **data cleaning, exploratory analysis, trend eva
 ## 1. Executive Summary
  
 * **Goal:** Analyze Ecuador's provincial tax data to identify regional economic drivers, export leaders, and purchasing-to-sales disparities that inform business and policy decisions.
+
+![ERD](./visualizations/ERD.png)
  
 * **Key Insights:** 
   - A small number of provinces are disproportionate drivers of national export activity
@@ -62,25 +64,27 @@ Regional economic disparities affect business expansion strategies, government r
  
 *This chart highlights top performers in export activity alongside provinces with high purchasing power but lower sales, revealing regional imbalances.*
  
-[**Chart Placeholder:** Provincial Sales vs. Purchases vs. Exports — Bar or grouped comparison]
- 
+![Sales Vs Purchases](./visualizations/SalesvsPurchases.png)
+![Exportations Vs Importations](./visualizations/exportvsimport.png)
+
 ### Product Category Export Leaders
  
 *Identifying which product categories dominate Ecuador's export portfolio by volume and value.*
  
-[**Chart Placeholder:** Top Product Categories by Export Value — Bar or pie chart]
+![Product categories](./visualizations/topproductscategories.png)
  
-### Temporal Trend: Sales & Purchase Activity (Pre/Post-2023)
+### Sales & Purchase Activity 2023 and Quaterly comparison 2023 vs 2024
  
-*Year-over-year comparison showing whether economic momentum has accelerated, stalled, or shifted across regions.*
+*1st Quaterley comparison 2023 vs 2024 showing whether economic momentum has accelerated, stalled, or shifted across regions. Monthly sales and purchase activity for 2023 bt region*
  
-[**Chart Placeholder:** Sales & Purchases Over Time — Line chart with pre/post-2023 markers]
+![Montly- 2023 Purchases vs Sales](./visualizations/topproductscategories.png)
+![Quaterly comparison 2023 vs 2024](./visualizations/topproductscategories.png)
  
-### Regional Disparity Index: Purchase-to-Sales Ratio
+### Regional Disparity: Purchase-to-Sales 
  
 *Provinces with high purchases but low sales suggest logistical inefficiencies, inventory buildup, or resale distribution challenges.*
  
-[**Chart Placeholder:** Purchase-to-Sales Ratio by Province — Scatter or bar chart highlighting outliers]
+![Regions](./visualizations/maps.png)
  
 ---
  
