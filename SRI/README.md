@@ -29,7 +29,7 @@ The focus of this project is on **data cleaning, exploratory analysis, trend eva
  
 ---
  
-## 1. Executive Summary {#1-executive-summary}
+## 1. Executive Summary
  
 * **Goal:** Analyze Ecuador's provincial tax data to identify regional economic drivers, export leaders, and purchasing-to-sales disparities that inform business and policy decisions.
  
@@ -42,7 +42,7 @@ The focus of this project is on **data cleaning, exploratory analysis, trend eva
  
 ---
  
-## 2. Business Context {#2-business-context}
+## 2. Business Context
  
 **Dataset Overview:**  
 This analysis leverages provincial-level tax data from Ecuador's Servicio de Rentas Internas (SRI), capturing:
@@ -56,27 +56,27 @@ Regional economic disparities affect business expansion strategies, government r
  
 ---
  
-## 3. Analysis {#3-analysis}
+## 3. Analysis
  
-### Key Metrics by Province {#key-metrics-by-province} (Sales, Purchases, Exports)
+### Key Metrics by Province (Sales, Purchases, Exports)
  
 *This chart highlights top performers in export activity alongside provinces with high purchasing power but lower sales, revealing regional imbalances.*
  
 [**Chart Placeholder:** Provincial Sales vs. Purchases vs. Exports — Bar or grouped comparison]
  
-### Product Category Export Leaders {#product-category-export-leaders}
+### Product Category Export Leaders
  
 *Identifying which product categories dominate Ecuador's export portfolio by volume and value.*
  
 [**Chart Placeholder:** Top Product Categories by Export Value — Bar or pie chart]
  
-### Temporal Trend: Sales & Purchase Activity (Pre/Post-2023) {#temporal-trend-sales--purchase-activity}
+### Temporal Trend: Sales & Purchase Activity (Pre/Post-2023)
  
 *Year-over-year comparison showing whether economic momentum has accelerated, stalled, or shifted across regions.*
  
 [**Chart Placeholder:** Sales & Purchases Over Time — Line chart with pre/post-2023 markers]
  
-### Regional Disparity Index: Purchase-to-Sales Ratio {#regional-disparity-index}
+### Regional Disparity Index: Purchase-to-Sales Ratio
  
 *Provinces with high purchases but low sales suggest logistical inefficiencies, inventory buildup, or resale distribution challenges.*
  
@@ -84,7 +84,7 @@ Regional economic disparities affect business expansion strategies, government r
  
 ---
  
-## 4. Key Insights {#4-key-insights}
+## 4. Key Insights
  
 ✔ **Export Concentration Risk:** A disproportionately small set of provinces generates the majority of exports, creating economic vulnerability if these regions experience disruption.
  
@@ -101,9 +101,9 @@ Regional economic disparities affect business expansion strategies, government r
  
 ---
  
-## 5. Recommendations {#5-recommendations}
+## 5. Recommendations
  
-### Immediate Actions {#immediate-actions}
+### Immediate Actions
 1. **Investigate Purchase-Sales Mismatches:**  
    Conduct targeted interviews or on-site assessments in provinces with high purchasing but low sales. Identify root causes (logistics, pricing, demand generation, or market barriers).
  
@@ -113,7 +113,7 @@ Regional economic disparities affect business expansion strategies, government r
 3. **Monitor Post-2023 Trends:**  
    Establish a quarterly monitoring cadence to track whether the post-2023 shift represents a new baseline or a temporary anomaly.
  
-### Strategic Initiatives {#strategic-initiatives}
+### Strategic Initiatives
 4. **Export-Led Growth Program:**  
    Partner with top-performing provinces to understand their success factors, then replicate best practices in lower-performing regions.
  
@@ -123,7 +123,7 @@ Regional economic disparities affect business expansion strategies, government r
 6. **Product Category Risk Assessment:**  
    Evaluate vulnerability of leading export categories to price volatility, demand shocks, or trade policy changes. Encourage diversification.
  
-### Long-Term Opportunities {#long-term-opportunities}
+### Long-Term Opportunities
 7. **Interactive Dashboard & Automation:**  
    Deploy Power BI or Tableau dashboards for real-time regional monitoring. Automate monthly provincial reports for stakeholder distribution.
  
@@ -135,7 +135,7 @@ Regional economic disparities affect business expansion strategies, government r
  
 ---
  
-## 📊 Methodology {#methodology}
+## 📊 Methodology
  
 **Data Preparation:** Cleaned and validated raw tax data, handled missing values, and standardized provincial classifications.
  
@@ -149,7 +149,7 @@ Regional economic disparities affect business expansion strategies, government r
  
 ---
  
-## 📓 Full Analysis {#-full-analysis}
+## 📓 Full Analysis
  
 [Open Jupyter Notebook →](./Project_SRI.ipynb)
  
