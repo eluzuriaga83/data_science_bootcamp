@@ -77,8 +77,8 @@ Regional economic disparities affect business expansion strategies, government r
  
 *1st Quaterley comparison 2023 vs 2024 showing whether economic momentum has accelerated, stalled, or shifted across regions. Monthly sales and purchase activity for 2023 bt region*
  
-![Montly- 2023 Purchases vs Sales](./visualizations/topproductscategories.png)
-![Quaterly comparison 2023 vs 2024](./visualizations/topproductscategories.png)
+![Montly- 2023 Purchases vs Sales](./visualizations/montly2023-purchandsales.png)
+![Quaterly comparison 2023 vs 2024](./visualizations/quaterly2023-2024.png)
  
 ### Regional Disparity: Purchase-to-Sales 
  
