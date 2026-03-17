@@ -21,7 +21,7 @@
  
 ---
  
-## Project Overview {#project-overview}
+## Project Overview
  
 Project SRI is a data analysis case study inspired by Ecuador's Servicio de Rentas Internas (SRI). The project analyzes provincial tax data to evaluate economic activity across regions and deliver clear, actionable insights for business and public-sector stakeholders.
  
