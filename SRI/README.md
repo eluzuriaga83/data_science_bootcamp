@@ -51,7 +51,7 @@ This analysis leverages provincial-level tax data from Ecuador's Servicio de Ren
 - Sales activity by province
 - Purchase activity by province
 - Export volume and product categories
-- Temporal trends spanning pre- and post-2023 periods
+- Temporal trends during 2023 and comparison between 1st quarter 2023 vs 2024 
  
 **Why It Matters:**  
 Regional economic disparities affect business expansion strategies, government resource allocation, and export competitiveness. Understanding which provinces drive growth versus which have untapped potential helps stakeholders make data-informed decisions on investment, infrastructure, and trade policy.
@@ -62,9 +62,10 @@ Regional economic disparities affect business expansion strategies, government r
  
 ### Key Metrics by Province (Sales, Purchases, Exports)
  
-*This chart highlights top performers in export activity alongside provinces with high purchasing power but lower sales, revealing regional imbalances.*
- 
+*The top 10 provinces by sales demonstrate significant economic concentration, with Pichincha and Guayas commanding over 80% of total sales activity. Both provinces maintain healthy sales-to-purchases ratios, confirming their status as dominant economic and export hubs. The remaining eight provinces contribute substantially less, highlighting regional economic disparities*
 ![Sales Vs Purchases](./visualizations/SalesvsPurchases.png)
+
+*The Exportations vs. Importations analysis by province reveals stark disparities in international trade activity. Pichincha dominates both exports and imports, reflecting its status as Ecuador's primary commercial hub. Most provinces show minimal trade activity, indicating concentrated international commerce in a single province.*
 ![Exportations Vs Importations](./visualizations/exportvsimport.png)
 
 ### Product Category Export Leaders
@@ -74,17 +75,24 @@ Regional economic disparities affect business expansion strategies, government r
 ![Product categories](./visualizations/topproductscategories.png)
  
 ### Sales & Purchase Activity 2023 and Quaterly comparison 2023 vs 2024
- 
-*1st Quaterley comparison 2023 vs 2024 showing whether economic momentum has accelerated, stalled, or shifted across regions. Monthly sales and purchase activity for 2023 bt region*
- 
+
+*In 2023, the Costa, Insular, and Sierra regions dominated sales activity, with significantly higher sales volumes compared to purchases. This indicates these regions are primary export drivers for the national economy.*
+#Sales (blue line) and Purchases (orange line)  
+
 ![Montly- 2023 Purchases vs Sales](./visualizations/montly2023-purchandsales.png)
+
+*First quarter 2024 data shows strong sales growth in the Insular and Oriente regions. Both regions outperformed their 2023 baselines, with Insular showing steady upward momentum and Oriente demonstrating accelerating sales trends—indicating improved export competitiveness.*
+ 
 ![Quaterly comparison 2023 vs 2024](./visualizations/quaterly2023-2024.png)
  
 ### Regional Disparity: Purchase-to-Sales 
- 
-*Provinces with high purchases but low sales suggest logistical inefficiencies, inventory buildup, or resale distribution challenges.*
- 
-![Regions](./visualizations/maps.png)
+
+*Ecuador's provinces fall into two main economic categories based on their Purchase-to-Sales Ratio:
+Export Leaders (Pichincha & Guayas): These provinces sell significantly more than they purchase, indicating strong production and export capabilities. They drive national trade competitiveness.
+Balanced Economies (Santo Domingo, El Oro, Manabí): These provinces maintain roughly equal purchasing and sales activity, reflecting stable, self-sufficient regional economies.
+Notably: No provinces depend heavily on imports, suggesting a generally production-oriented national economy.*
+
+![Regions](./visualizations/PurchaseSalesRatio.png)
  
 ---
  
@@ -145,7 +153,7 @@ Regional economic disparities affect business expansion strategies, government r
  
 **Exploratory Analysis:** Assessed distributions, correlations, and outliers across sales, purchases, and export dimensions.
  
-**Trend Analysis:** Compared pre/post-2023 activity to quantify economic shifts.
+**Trend Analysis:** Compared post-2023 activity to quantify economic shifts.
  
 **Visualization & Reporting:** Translated findings into business-friendly visuals and actionable narratives.
  
