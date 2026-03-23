@@ -1,6 +1,6 @@
 # PROJECTS DESCRIPTIONS
 
-### Project SRI: A data-driven case study analyzing Ecuador’s economic activity to translate provincial tax data into actionable insights for policy and business decision-making.
+### Provincial Economic Analysis - Ecuador Tax Revenue SRI.
 This project demonstrates how data science can directly inform business and public-policy decisions. Using a realistic, end-to-end case study inspired by Ecuador’s Tax Authority, I analyze economic activity across provinces to uncover actionable insights for decision-makers.
 
 [More Detail](SRI/README.md)
