@@ -1,4 +1,4 @@
-# 📊 Project SRI – Provincial Economic Analysis Using Tax Data
+# 📊 Provincial Economic Analysis - Ecuador Tax Revenue SRI
  
 ## Table of Contents
  
